@@ -17,3 +17,8 @@
 🎬 Fun fact **In The Matrix, the "rain" of green code is actually sushi recipes written in Japanese.**
 
  </div>
+
+<div align="center"> 
+  <a href="mailto:gabriel.bacci02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>

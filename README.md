@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working for **Dotnova**
+ 💼 I’m currently working for **Dotnova**
  
- 🌱 I’m currently learning **Solidity**
+ 📖 I’m currently learning **Solidity**
 
  🌍 **Building software to make the world (or at least my code) a better place.**
 

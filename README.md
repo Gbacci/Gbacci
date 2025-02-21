@@ -14,6 +14,6 @@
 
  🌍 **Building software to make the world (or at least my code) a better place.**
 
-⚡ Fun fact **In The Matrix, the "rain" of green code is actually sushi recipes written in Japanese.**
+🎬 Fun fact **In The Matrix, the "rain" of green code is actually sushi recipes written in Japanese.**
 
  </div>
